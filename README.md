@@ -1,17 +1,17 @@
 # JNUC 2026
 
 <p align="center">
-	<img width="1024" alt="JNUC2025Header" src="https://github.com/cantscript/JNUC2026/blob/main/JNUC2026.png">
+	<img width="1024" alt="JNUC2025Header" src="https://github.com/cantscript/JNUC2026/blob/main/Images/JNUC2026.png">
 </p>
 
 ## Resources for my JNUC 2026 sessions 
 
 I was involved in a few JNUC "breakout" sessions this year. Resources for specific sessions can be found below
 
-- [DDM: Set It. Declare It. Forget It.](https://github.com/cantscript/JNUC2026/blob/main/DDM_SetIt_DeclareIt_ForgetIt.md)
-- [Tips and Tricks from the Jamf Engineers](https://github.com/cantscript/JNUC2026/blob/main/tips%26tricks.md)
-- [Return to Service for Mac: Otherwise Known as Auto Advance!](https://github.com/cantscript/JNUC2026/blob/main/Return%20to%20Service%20for%20Mac.md)
-- [Identity Is the Foundation: Building Smarter K-12 Apple Deployments with Jamf](https://github.com/cantscript/JNUC2026/blob/main/IdentityforJamfK12.md)
+- [DDM: Set It. Declare It. Forget It.](https://github.com/cantscript/JNUC2026/blob/main/Sessions/DDM_SetIt_DeclareIt_ForgetIt.md)
+- [Tips and Tricks from the Jamf Engineers](https://github.com/cantscript/JNUC2026/blob/main/Sessions/tips%26tricks.md)
+- [Return to Service for Mac: Otherwise Known as Auto Advance!](https://github.com/cantscript/JNUC2026/blob/main/Sessions/Return%20to%20Service%20for%20Mac.md)
+- [Identity Is the Foundation: Building Smarter K-12 Apple Deployments with Jamf](https://github.com/cantscript/JNUC2026/blob/main/Sessions/IdentityforJamfK12.md)
 
 ---
 
