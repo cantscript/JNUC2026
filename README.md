@@ -9,9 +9,9 @@
 I was involved in a few JNUC "breakout" sessions this year. Resources for specific sessions can be found below
 
 - [DDM: Set It. Declare It. Forget It.](https://github.com/cantscript/JNUC2026/blob/main/DDM_SetIt_DeclareIt_ForgetIt.md)
-- Tips and Tricks from the Jamf Engineers
-- Return to Service for Mac: Otherwise Known as Auto Advance!
-- Identity Is the Foundation: Building Smarter K-12 Apple Deployments with Jamf
+- [Tips and Tricks from the Jamf Engineers](https://github.com/cantscript/JNUC2026/blob/main/tips%26tricks.md)
+- [Return to Service for Mac: Otherwise Known as Auto Advance!](https://github.com/cantscript/JNUC2026/blob/main/Return%20to%20Service%20for%20Mac.md)
+- [Identity Is the Foundation: Building Smarter K-12 Apple Deployments with Jamf](https://github.com/cantscript/JNUC2026/blob/main/IdentityforJamfK12.md)
 
 ---
 
