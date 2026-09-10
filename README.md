@@ -8,7 +8,7 @@
 
 I was involved in a few JNUC "breakout" sessions this year. Resources for specific sessions can be found below
 
-- DDM: Set It. Declare It. Forget It.
+- [DDM: Set It. Declare It. Forget It.](https://github.com/cantscript/JNUC2026/blob/main/DDM_SetIt_DeclareIt_ForgetIt.md)
 - Tips and Tricks from the Jamf Engineers
 - Return to Service for Mac: Otherwise Known as Auto Advance!
 - Identity Is the Foundation: Building Smarter K-12 Apple Deployments with Jamf
