@@ -50,7 +50,7 @@ _Shipped for the community._
   </tr>
         <tr>
     <td width="80">
-      <img width="72" alt="PSSOUtil" src="https://concepts.jamf.com/icons/psso-utility.png">
+      <img width="512" alt="PSSOUtil" src="https://concepts.jamf.com/icons/psso-utility.png">
     </td>
     <td valign="middle">
       <h3><a href="https://github.com/jamf-concepts/psso-utility">PSSO Utility</a></h3>
