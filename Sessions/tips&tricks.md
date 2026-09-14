@@ -63,9 +63,20 @@ _Shipped for the community._
 
 ### Software Updates: Documentation
 
+- [Apple Platform Deployment Guide: Install & Enforce Software Updates for Apple Devices](https://support.apple.com/en-gb/guide/deployment/depd30715cbb/web)
+- [Apple Developer Documentation: StatusSoftwareUpdateBetaEnrollment](https://developer.apple.com/documentation/devicemanagement/statussoftwareupdatebetaenrollment)
+- [Deploying software updates using declarative management](https://developer.apple.com/documentation/devicemanagement/deploying-software-updates-using-declarative-management)
+- [Apple MDM Beta Token Automation](https://github.com/microsoft/shell-intune-samples/tree/master/macOS/Tools/getBetaTokens)
+
 ---
 
 ### Platform SSO: Documentation
+
+- [Apple Platform Deployment Guide - Platform SSO](https://support.apple.com/en-gb/guide/deployment/dep7bbb05313/web)
+- [Jamf Learning Hub - PSSO with Jamf Pro](https://learn.jamf.com/r/en-US/technical-articles/Platform_Single_Sign-on_for_macOS_with_Jamf_Pro)
+- [Platform SSO with Jamf - trust.jamf.com](https://trusted.jamf.com/docs/platform-sso-for-macos)
+- [Okta PSSO Setup with Jamf Pro](https://iamse.blog/2025/10/16/farewell-complexity-platform-sso-simplified-setup-on-macos-26-powered-by-okta-and-jamf/)
+- [Microsoft PSSO Setup (Entra)](https://learn.microsoft.com/en-us/entra/identity/devices/macos-psso-integration-guide)
 
 ---
 
