@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="1024" alt="T&TPlaceholder" src="https://github.com/cantscript/JNUC2026/blob/main/Images/T%26THeader-PLACEHOLDER.png">
+	<img width="1024" alt="T&TPlaceholder" src="https://github.com/cantscript/JNUC2026/blob/main/Images/thanks%20grp%202.png">
 </p>
 
 
@@ -57,6 +57,15 @@ _Shipped for the community._
       Native macOS app for inspecting and monitoring Platform Single Sign-On (PSSO) status, with a menu-bar item for quick troubleshooting.
     </td>
   </tr>
+	        <tr>
+    <td width="80">
+      <img width="512" alt="WallpaperDesigner" src="https://concepts.jamf.com/icons/wallpaper-designer.png">
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/Jamf-Concepts/wallpaper-designer">Wallpaper Designer</a></h3>
+      Wallpaper Designer lets administrators design and deploy custom wallpapers to iOS devices managed by Jamf. Create branded or informational wallpapers and push them to your device fleet.
+    </td>
+  </tr>
 </table>
 
 ---
@@ -80,11 +89,16 @@ _Shipped for the community._
 
 ---
 
+### AppSettingsUtility
+
+**[AppSettingsUtility - GitHub](https://github.com/cantscript/AppSettingsUtility)** <br>
+App Settings Utility is an interactive macOS shell script for finding the app and binary identifiers used when building Apple's com.apple.configuration.app.settings declaration.
+
 ### Where To Find Us On The Internet
 
 **Anthony Darlow** | [Linkedin](www.linkedin.com/in/anthony-darlow-a795b294) | [MacAdmins Slack](https://macadmins.slack.com/team/UA73QAKJL) | [Blog](www.cantscript.com) 
 
-**Rab Potvin** | Linkedin | MacAdmins Slack | [Blog](https://motionbug.com)
+**Rob Potvin** | Linkedin | MacAdmins Slack | [Blog](https://motionbug.com)
 
 **Luke Allen** | Linkedin | MacAdmins Slack
 
