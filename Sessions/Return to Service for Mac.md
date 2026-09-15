@@ -41,12 +41,28 @@ _Shipped for the community._
 
 ---
 
+### Jamf For Healthcare
+
+**[Technology Teams Trust. Care Patients Deserve.](https://jamf.highspot.com/viewer/6777895db0079929389f56c6a45b5320)**
+
+Jamf helps healthcare organizations keep care teams and patients connected and protected by simplifying device management and security at scale. From bedside to back office and into patient hands, devices stay reliable and always ready while IT maintains visibility and control across the entire fleet.
+
+With Jamf, healthcare organizations can:
+
+- Instantly configured devices for care teams & patients
+- Enhance the patient bedside experience
+- Empower providers to work securely anywhere.
+- Provide secure access on any device
+- Streamline workflows and reduce IT complexity
+
+---
+
 ### Where To Find Us On The Internet
 
-**Steve McGinn** | Linkedin | MacAdmins Slack 
+**Steve McGinn** | [Linkedin](www.linkedin.com/in/steve-mcginn-4032a236) | [MacAdmins Slack](https://macadmins.slack.com/team/U795VKYSF) 
 
-**Geogre Zervoudis** | Linkedin | MacAdmins Slack
+**Geogre Zervoudis** | [Linkedin](https://www.linkedin.com/in/george-zervoudis) | [MacAdmins Slack](https://macadmins.slack.com/team/U065GLG6GLX)
 
-**Vix Smith** | Linkedin
+**Vix Smith** | [Linkedin](linkedin.com/in/vixsmith)
 
 **Anthony Darlow** | [Linkedin](www.linkedin.com/in/anthony-darlow-a795b294) | [MacAdmins Slack](https://macadmins.slack.com/team/UA73QAKJL) | [Blog](www.cantscript.com) 
