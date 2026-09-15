@@ -15,7 +15,10 @@
 ---
 
 ### Apple Documentation
-[Apple Github - Declarative](https://github.com/apple/device-management/tree/release/declarative)
+[Apple Github - Declarative](https://github.com/apple/device-management/tree/release/declarative) <br>
+[What's new for enterprise in iOS](https://support.apple.com/en-us/148828) <br>
+[What's new for enterprise in iPadOS 27](https://support.apple.com/en-us/148829) <br>
+[What's new for enterprise in macOS Golden Gate 27](https://support.apple.com/en-us/148830)
 
 ---
 
