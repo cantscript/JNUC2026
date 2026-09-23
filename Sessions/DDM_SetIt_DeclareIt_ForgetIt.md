@@ -33,7 +33,8 @@ London Apple Admins Meetup December 2025: [What The DDM](https://www.youtube.com
 [Jamf Blueprints Configuration Guide](https://learn.jamf.com/r/en-US/jamf-pro-blueprints-configuration-guide/Jamf_Pro_Blueprints_Configuration_Guide) <br>
 [Jamf Blueprint Release Notes](https://learn.jamf.com/r/en-US/jamf-pro-blueprints-configuration-guide/Blueprints_Release_Notes_Pro) <br>
 [Viewing Status through Jamf Pro API](https://learn.jamf.com/r/en-US/jamf-pro-blueprints-configuration-guide/Viewing_the_Status_of_a_Blueprint_Jamf_Pro_API) <br>
-[Jamf Platform API: Blueprints](https://developer.jamf.com/platform-api/reference/listblueprints)
+[Jamf Platform API: Blueprints](https://developer.jamf.com/platform-api/reference/listblueprints) <br>
+[Declarative Device Management Migration Guide](https://learn.jamf.com/r/en-US/declarative-device-management-migration-guide/Declarative_Device_Management_Migration_Guide) 
 
 ---
 
